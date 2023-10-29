@@ -1,9 +1,9 @@
 # A Laravel Health check to monitor Octane server
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/:vendor_slug/:package_slug.svg?style=flat-square)](https://packagist.org/packages/:vendor_slug/:package_slug)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/:vendor_slug/:package_slug/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/:vendor_slug/:package_slug/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/:vendor_slug/:package_slug/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/:vendor_slug/:package_slug/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/:vendor_slug/:package_slug.svg?style=flat-square)](https://packagist.org/packages/:vendor_slug/:package_slug)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/ahtinurme/octane-health-check.svg?style=flat-square)](https://packagist.org/packages/ahtinurme/octane-health-check)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/ahtinurme/octane-health-check/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/ahtinurme/octane-health-check/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/ahtinurme/octane-health-check/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/ahtinurme/octane-health-check/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/ahtinurme/octane-health-check.svg?style=flat-square)](https://packagist.org/packages/ahtinurme/octane-health-check)
 ---
 
 This package contains a [Laravel Health](https://spatie.be/docs/laravel-health) check that monitors your Octane server. It can send you a notification when Octane server is not running.
